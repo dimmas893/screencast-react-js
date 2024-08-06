@@ -1,1 +1,1 @@
-be = https://github.com/dimmas893/laravel-screencast
+be = https://github.com/dimmas893/laravel-api-screencast
